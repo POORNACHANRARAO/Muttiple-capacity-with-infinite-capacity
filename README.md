@@ -18,6 +18,9 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 
 ## Experiment:
+![image](https://github.com/POORNACHANRARAO/Muttiple-capacity-with-infinite-capacity/assets/163993491/79cd1f30-a264-4fa1-b906-548afd72b824)
+![image](https://github.com/POORNACHANRARAO/Muttiple-capacity-with-infinite-capacity/assets/163993491/5c189227-869d-4f71-9168-c8356939912a)
+
 
 
 ## Program
@@ -52,12 +55,12 @@ if (rho<1):
     print("Probability that the system is empty : %0.2f "%(1-rho))
 else:
     print("Warning! Objects Over flow will happen in the conveyor")
-print("--------------------------------------------------------------")```
+print("--------------------------------------------------------------")
+```
 
 ## Output :
-```
+
 ![image](https://github.com/POORNACHANRARAO/Muttiple-capacity-with-infinite-capacity/assets/163993491/279a502b-6a96-4861-9ff5-1b0cafe1c36d)
-```
 
 # Result : 
 Thus the average number of materials in the system and conveyor, waiting time of each material in the system and conveyor is found successfully.
